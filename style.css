@@ -11,10 +11,11 @@
     font-family: cursive;
     margin: 20px;
     padding: 40px;
+    
 }
 
 .general {
-    display: block;
+    display: inline-block;
     content: 20px;
 
 }

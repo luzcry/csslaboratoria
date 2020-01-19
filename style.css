@@ -2,6 +2,7 @@
     background-color: rgb(236, 207, 43);
     font-family: fantasy;
     margin: 20px;
+    padding: 40px;
 
 }
 
@@ -9,12 +10,11 @@
     background-color: rgb(83, 81, 81);
     font-family: cursive;
     margin: 20px;
-    
+    padding: 40px;
 }
 
 .general {
     display: block;
-    padding: 20px;
     content: 20px;
 
 }
